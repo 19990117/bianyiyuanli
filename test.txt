@@ -1,0 +1,2 @@
+S->AT A->BU T->+AT T->$ U->*BU U->$ B->(S) B->m
+S->AB S->bC A->$ A->b B->$ B->aD C->AD C->b D->aS D->c
